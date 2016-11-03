@@ -12,6 +12,6 @@ require './food_class.rb'
 # puts water.type
 # puts water.health
 
-bok_choy = Food.new({})
+bok_choy = Actualize::Food.new({})
 
 puts bok_choy.shelf_life
