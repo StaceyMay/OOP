@@ -1,4 +1,4 @@
-module Actualize
+module StoreFront
   class Food < Items
     attr_reader :price
 

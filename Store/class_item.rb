@@ -1,4 +1,4 @@
-module Actualize
+module StoreFront
   class Items
     attr_accessor :price, :type, :health
 
