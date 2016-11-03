@@ -1,5 +1,4 @@
-
-  class Employee
+class Employee
     attr_reader :first_name, :last_name
     attr_accessor :active, :last_name
 
